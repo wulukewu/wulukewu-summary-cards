@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/wulukewu/wulukewu-summary-cards/master/profile-summary-card-output/2077/4-productive-time.svg)
-```
-
-    

@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/wulukewu/wulukewu-summary-cards/master/profile-summary-card-output/darcula/4-productive-time.svg)
-```
-
-    
