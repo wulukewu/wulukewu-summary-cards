@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/wulukewu/wulukewu-summary-cards/master/profile-summary-card-output/radical/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/wulukewu/wulukewu-summary-cards/master/profile-summary-card-output/radical/4-productive-time.svg)
-```
-
-    
